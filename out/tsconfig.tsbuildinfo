@@ -1,0 +1,55 @@
+{
+  "program": {
+    "fileInfos": {
+      "c:/users/jcnt845/desktop/typescript-newfeatures/node_modules/typescript/lib/lib.d.ts": {
+        "version": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0",
+        "signature": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0"
+      },
+      "c:/users/jcnt845/desktop/typescript-newfeatures/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88",
+        "signature": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88"
+      },
+      "c:/users/jcnt845/desktop/typescript-newfeatures/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376",
+        "signature": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376"
+      },
+      "c:/users/jcnt845/desktop/typescript-newfeatures/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "c:/users/jcnt845/desktop/typescript-newfeatures/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "c:/users/jcnt845/desktop/typescript-newfeatures/src/calculator.ts": {
+        "version": "f0c879f20a334aa1936f664d4d7183dcfae937baec7d59285af5da0e33f00a36",
+        "signature": "c49cbbf33cb315cbf80a1040476288781b7aaada51f1ae6e7a47b255bb67b469"
+      },
+      "c:/users/jcnt845/desktop/typescript-newfeatures/src/index.ts": {
+        "version": "978bc7b1ebde06fb2ec0828219d36d626e7c63417ba714b66119650f20879fa2",
+        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
+      }
+    },
+    "options": {
+      "incremental": true,
+      "outDir": "C:/Users/jcnt845/Desktop/typescript-newfeatures/out",
+      "configFilePath": "C:/Users/jcnt845/Desktop/typescript-newfeatures/tsconfig.json"
+    },
+    "referencedMap": {
+      "c:/users/jcnt845/desktop/typescript-newfeatures/src/index.ts": [
+        "c:/users/jcnt845/desktop/typescript-newfeatures/src/calculator.ts"
+      ]
+    },
+    "exportedModulesMap": {},
+    "semanticDiagnosticsPerFile": [
+      "c:/users/jcnt845/desktop/typescript-newfeatures/node_modules/typescript/lib/lib.d.ts",
+      "c:/users/jcnt845/desktop/typescript-newfeatures/node_modules/typescript/lib/lib.es5.d.ts",
+      "c:/users/jcnt845/desktop/typescript-newfeatures/node_modules/typescript/lib/lib.dom.d.ts",
+      "c:/users/jcnt845/desktop/typescript-newfeatures/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "c:/users/jcnt845/desktop/typescript-newfeatures/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "c:/users/jcnt845/desktop/typescript-newfeatures/src/calculator.ts",
+      "c:/users/jcnt845/desktop/typescript-newfeatures/src/index.ts"
+    ]
+  },
+  "version": "3.4.1"
+}
